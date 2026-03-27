@@ -108,6 +108,13 @@ This project was built to demonstrate:
 
 ---
 
+## 📬 Contact
+
+Feel free to reach out or connect:
+
+* GitHub: https://github.com/samiyamohammed
+
+---
 
 ## ⭐ Show your support
 
